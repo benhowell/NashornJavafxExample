@@ -1,0 +1,1 @@
+This application was originally created as part of a guide to building scripted user interfaces with Nashorn and JavaFX. The original article can be found here: http://www.benhowell.net/guide/2014/05/28/scripted-user-interfaces-with-nashorn-and-javafx/
